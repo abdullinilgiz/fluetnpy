@@ -1,7 +1,14 @@
+import collections
+
+
 def tail(file_path, num_lines=10):
     with open(file_path, 'r') as file:
-        lines = file.readlines()
-        return lines[-num_lines:]
+        lines = collections.deque()
+        for line in file:
+            lines.append(line)
+            if len(lines) > num_lines:
+                lines.popleft()
+        return lines
 
 
 if __name__ == '__main__':
@@ -23,5 +30,10 @@ if __name__ == '__main__':
                 print(line, end='')
             first = False
     else:
-        for i in range(17):
-            print(sys.stdin.readline(), end='')
+        lines = collections.deque()
+        for line in sys.stdin:
+            lines.append(line)
+            if len(lines) > 10:
+                lines.popleft()
+        for line in lines:
+            print(line, end='')

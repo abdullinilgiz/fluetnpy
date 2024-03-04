@@ -15,9 +15,8 @@ if __name__ == '__main__':
             row_num = ' ' * max(0, 6 - len(row_num)) + row_num
             print(row_num + '	' + row.rstrip('\n'))
     else:
-        while True:
+        for stdin in sys.stdin:
             cnt += 1
-            stdin = sys.stdin.readline()
             row_num = str(cnt)
             row_num = ' ' * max(0, 6 - len(row_num)) + row_num
-            print(row_num + '	' + stdin)
+            print(row_num + '	' + stdin, end='')
