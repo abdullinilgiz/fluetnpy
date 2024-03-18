@@ -1,0 +1,1 @@
+latex-fluentpy==0.1.0
