@@ -40,14 +40,11 @@ if __name__ == "__main__":
     process_A.start()
     process_B.start()
 
-    # while True:
-        # stdin = sys.stdin.readline().stip
     for stdin in sys.stdin:
         stdin = stdin.strip()
         print(get_time_string(stdin) + " input in cmd")
         queueMainA.put(stdin)
 
-        # while not queueBMain.empty():
         message = queueBMain.get()
         print(get_time_string(message) + " in MAIN")
 
