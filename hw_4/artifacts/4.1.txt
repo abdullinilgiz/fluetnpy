@@ -1,0 +1,3 @@
+Function run_threads executed in 16.510390758514404 seconds
+Function run_processes executed in 3.107664108276367 seconds
+Function run_sync executed in 16.46740460395813 seconds

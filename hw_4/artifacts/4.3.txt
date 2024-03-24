@@ -1,0 +1,36 @@
+(venv) ilgiz@pc:~/dev/fluetnpy/hw_4$ python3 queue_pipe.py 
+abc
+[22:07:37] `abc` input in cmd
+[22:07:37] `abc` in Process A
+[22:07:37] `abc` in Process B
+[22:07:37] `nop` in MAIN
+qwer
+[22:07:39] `qwer` input in cmd
+kla
+[22:07:42] `qwer` in Process A
+[22:07:42] `qwer` in Process B
+[22:07:42] `djre` in MAIN
+[22:07:42] `kla` input in cmd
+[22:07:47] `kla` in Process A
+[22:07:47] `kla` in Process B
+[22:07:47] `xyn` in MAIN
+fluentpy
+[22:07:50] `fluentpy` input in cmd
+[22:07:52] `fluentpy` in Process A
+[22:07:52] `fluentpy` in Process B
+[22:07:52] `syhragcl` in MAIN
+pewpew
+[22:09:43] `pewpew` input in cmd
+[22:09:43] `pewpew` in Process A
+[22:09:43] `pewpew` in Process B
+[22:09:43] `crjcrj` in MAIN
+blabla
+[22:09:52] `blabla` input in cmd
+[22:09:52] `blabla` in Process A
+[22:09:52] `blabla` in Process B
+[22:09:52] `oynoyn` in MAIN
+kewkew
+[22:09:56] `kewkew` input in cmd
+[22:09:57] `kewkew` in Process A
+[22:09:57] `kewkew` in Process B
+[22:09:57] `xrjxrj` in MAIN

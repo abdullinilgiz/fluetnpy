@@ -1,0 +1,120 @@
+Number of Jobs: 1
+Time taken by Sync: 0.8049661639997794 seconds
+Time taken by Threads: 0.8411765700002434 seconds
+Time taken by Processes: 0.8043100870017952 seconds
+-------------------------
+Number of Jobs: 2
+Time taken by Sync: 0.7937038640011451 seconds
+Time taken by Threads: 0.7950990760000423 seconds
+Time taken by Processes: 0.4068700669995451 seconds
+-------------------------
+Number of Jobs: 3
+Time taken by Sync: 0.8337708130020474 seconds
+Time taken by Threads: 0.7834374250014662 seconds
+Time taken by Processes: 0.2851267480000388 seconds
+-------------------------
+Number of Jobs: 4
+Time taken by Sync: 0.8144926790009777 seconds
+Time taken by Threads: 0.7889167899993481 seconds
+Time taken by Processes: 0.2292019100023026 seconds
+-------------------------
+Number of Jobs: 5
+Time taken by Sync: 0.8180982149970077 seconds
+Time taken by Threads: 0.7875184460026503 seconds
+Time taken by Processes: 0.20014340999841806 seconds
+-------------------------
+Number of Jobs: 6
+Time taken by Sync: 0.8268089709999913 seconds
+Time taken by Threads: 0.7955323310015956 seconds
+Time taken by Processes: 0.22158130900061224 seconds
+-------------------------
+Number of Jobs: 7
+Time taken by Sync: 0.8115151109996077 seconds
+Time taken by Threads: 0.7916771979980695 seconds
+Time taken by Processes: 0.24773220399947604 seconds
+-------------------------
+Number of Jobs: 8
+Time taken by Sync: 0.9100648919993546 seconds
+Time taken by Threads: 0.7875730839987227 seconds
+Time taken by Processes: 0.219270982001035 seconds
+-------------------------
+Number of Jobs: 9
+Time taken by Sync: 0.9030505840019032 seconds
+Time taken by Threads: 0.7959192020025512 seconds
+Time taken by Processes: 0.21730482800194295 seconds
+-------------------------
+Number of Jobs: 10
+Time taken by Sync: 0.8382418649998726 seconds
+Time taken by Threads: 0.7978920710011153 seconds
+Time taken by Processes: 0.1877182600001106 seconds
+-------------------------
+Number of Jobs: 11
+Time taken by Sync: 0.8203560740003013 seconds
+Time taken by Threads: 0.80058625500169 seconds
+Time taken by Processes: 0.1862553079990903 seconds
+-------------------------
+Number of Jobs: 12
+Time taken by Sync: 0.8337087970030552 seconds
+Time taken by Threads: 0.8108757619993412 seconds
+Time taken by Processes: 0.18143462100124452 seconds
+-------------------------
+Number of Jobs: 13
+Time taken by Sync: 0.7800291299972741 seconds
+Time taken by Threads: 0.7995412439995562 seconds
+Time taken by Processes: 0.20401686300101574 seconds
+-------------------------
+Number of Jobs: 14
+Time taken by Sync: 0.8378166360016621 seconds
+Time taken by Threads: 0.8030575230004615 seconds
+Time taken by Processes: 0.21511239699975704 seconds
+-------------------------
+Number of Jobs: 15
+Time taken by Sync: 0.8555815489999077 seconds
+Time taken by Threads: 0.8108465209988935 seconds
+Time taken by Processes: 0.21035812799891573 seconds
+-------------------------
+Number of Jobs: 16
+Time taken by Sync: 0.8393247239982884 seconds
+Time taken by Threads: 0.8063929230011126 seconds
+Time taken by Processes: 0.20204805899993517 seconds
+-------------------------
+Number of Jobs: 17
+Time taken by Sync: 0.7762497249968874 seconds
+Time taken by Threads: 0.7906921689973387 seconds
+Time taken by Processes: 0.19889677600076539 seconds
+-------------------------
+Number of Jobs: 18
+Time taken by Sync: 0.8070525110015296 seconds
+Time taken by Threads: 0.8035801019977953 seconds
+Time taken by Processes: 0.20338097299827496 seconds
+-------------------------
+Number of Jobs: 19
+Time taken by Sync: 0.8625998080024146 seconds
+Time taken by Threads: 0.8092559279975831 seconds
+Time taken by Processes: 0.2094647329977306 seconds
+-------------------------
+Number of Jobs: 20
+Time taken by Sync: 0.8225965650017315 seconds
+Time taken by Threads: 0.8002848899996025 seconds
+Time taken by Processes: 0.20287113900121767 seconds
+-------------------------
+Number of Jobs: 21
+Time taken by Sync: 0.8170910950029793 seconds
+Time taken by Threads: 0.7945191920007346 seconds
+Time taken by Processes: 0.20447377700111247 seconds
+-------------------------
+Number of Jobs: 22
+Time taken by Sync: 0.8591193180000118 seconds
+Time taken by Threads: 0.7939223410030536 seconds
+Time taken by Processes: 0.21907231400109595 seconds
+-------------------------
+Number of Jobs: 23
+Time taken by Sync: 0.8027646739974443 seconds
+Time taken by Threads: 0.8213320529976045 seconds
+Time taken by Processes: 0.20856589100003475 seconds
+-------------------------
+Number of Jobs: 24
+Time taken by Sync: 0.8510882740010857 seconds
+Time taken by Threads: 0.8117328679982165 seconds
+Time taken by Processes: 0.21052115500060609 seconds
+-------------------------
